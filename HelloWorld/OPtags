@@ -1,0 +1,15 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+FlyportTask	D:\git\andreamoz\OpenPicusCodemotionMilano\HelloWorld\taskFlyport.c	/^void FlyportTask()$/;"	kind:f	line:3
+OnConnectionFailed	D:\git\andreamoz\OpenPicusCodemotionMilano\HelloWorld\WF_Events.c	/^void OnConnectionFailed(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:16
+OnConnectionPermLost	D:\git\andreamoz\OpenPicusCodemotionMilano\HelloWorld\WF_Events.c	/^void OnConnectionPermLost(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:34
+OnConnectionReestablished	D:\git\andreamoz\OpenPicusCodemotionMilano\HelloWorld\WF_Events.c	/^void OnConnectionReestablished(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:28
+OnConnectionSuccessful	D:\git\andreamoz\OpenPicusCodemotionMilano\HelloWorld\WF_Events.c	/^void OnConnectionSuccessful(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:9
+OnConnectionTempLost	D:\git\andreamoz\OpenPicusCodemotionMilano\HelloWorld\WF_Events.c	/^void OnConnectionTempLost(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:22
+OnScanResult	D:\git\andreamoz\OpenPicusCodemotionMilano\HelloWorld\WF_Events.c	/^void OnScanResult(UINT8 ev, UINT16 evinfo)$/;"	kind:f	line:41
+ScanCompleted	D:\git\andreamoz\OpenPicusCodemotionMilano\HelloWorld\WF_Events.c	/^BOOL ScanCompleted = FALSE;$/;"	kind:v	line:7
+buf	D:\git\andreamoz\OpenPicusCodemotionMilano\HelloWorld\WF_Events.c	/^	char buf[8];$/;"	kind:l	line:44
